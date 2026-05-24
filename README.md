@@ -1,4 +1,4 @@
-# luke
+# hi, im luke
 
 i build apps, tools, dashboards, and small systems around things i actually use.
 
@@ -12,11 +12,8 @@ most of the code is in private repos, but the live stuff is public.
 ![SQL](https://img.shields.io/badge/SQL-6d5ef5?style=flat-square&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-111111?style=flat-square&logo=gnubash&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **live**
 
@@ -27,6 +24,6 @@ most of the code is in private repos, but the live stuff is public.
 
 **building with**
 
-typescript, javascript, python, swift, rust, sql, react, vite, node, supabase, vercel, macos, cli tools, ai agents
+typescript, javascript, python, swift, rust, sql, react, vite, node, supabase, vercel, macos, cli tools, codex
 
 also around sometimes: ruby, php, go, elixir, zig, c/c++, r
