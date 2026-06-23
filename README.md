@@ -17,11 +17,10 @@ most of the code is in private repos, but the live stuff is public.
 
 **live**
 
-- [cooktheclip](https://cooktheclip.com) - turn short cooking videos into structured recipes (if offline, full release is not ready yet)
 - [128ordle](https://128ordle.xyz) - wordle scaled way too far, with persistence and social features
 - [now](https://luke2x.space) - live status, spotify, discord, local time, and code stats
 - [portfolio](https://luke.cymru) - projects, writing, links, and whatever else i ship there
-- **soon to come** - lots more projects! let me finish exams first... 
+- **soon to come** - lots more projects! exams are done! lost motivation to code rn will be back soon
 
 **building with**
 
