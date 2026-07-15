@@ -22,8 +22,13 @@ most of the code is in private repos, but the live stuff is public.
 - [portfolio](https://luke.cymru) - projects, writing, links, and whatever else i ship there
 - **soon to come** - lots more projects! exams are done! lost motivation to code rn will be back soon
 
+**beta**
+
+- [Asteria](https://asteriamod.com) - mod for hypixel skyblock 
+
+
 **building with**
 
-typescript, javascript, python, swift, rust, sql, react, vite, node, supabase, vercel, macos, cli tools, codex
+typescript, javascript, python, kotlin, sql, react, vite, node, supabase, vercel, macos, cli tools, codex
 
 also around sometimes: ruby, php, go, elixir, zig, c/c++, r
