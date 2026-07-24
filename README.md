@@ -14,7 +14,7 @@ basically all of the code is in private repos
 **live**
 
 - [128ordle](https://128ordle.com) - wordle scaled way too far, with persistence and social features
-- [portfolio](https://luke.cymru) - projects, writing, links, and whatever else i ship there
+- [portfolio](https://luke.cymru) - i'll make it better soon with more stuff abt me 
 - [what im doing!](https://luke.cymru/now) - see what im currently up to
 - **soon to come** - uh soon when i get some new ideas i guess...
 
