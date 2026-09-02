@@ -11,15 +11,17 @@ basically all of the code is in private repos
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+**my portfolio**
+- [portfolio](https://luke.cymru) - i'll make it better soon with more stuff abt me 
+
 **live**
 
 - [128ordle](https://128ordle.com) - wordle scaled way too far, with persistence and social features
-- [portfolio](https://luke.cymru) - i'll make it better soon with more stuff abt me 
-- [what im doing!](https://luke.cymru/now) - see what im currently up to
-- **soon to come** - uh soon when i get some new ideas i guess...
+- **soon to come** - uh soon when i get some good ideas i guess...
 
 **beta**
 
-- [Asteria](https://asteriamod.com) - mod for hypixel skyblock 
+- [Asteria](https://asteriamod.com) - mod for hypixel skyblock
+- [further](https://senditfurther.lol) - domain will be acquired tomorrow
 
 
