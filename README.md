@@ -22,6 +22,6 @@ basically all of the code is in private repos
 **beta**
 
 - [Asteria](https://asteriamod.com) - mod for hypixel skyblock
-- [further](https://senditfurther.lol) - domain will be acquired tomorrow
+
 
 
