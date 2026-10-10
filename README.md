@@ -12,16 +12,16 @@ basically all of the code is in private repos
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 **my portfolio**
-- [portfolio](https://luke.cymru) - i'll make it better soon with more stuff abt me 
+- [portfolio](https://luke.cymru) - yeah
 
 **live**
 
-- [128ordle](https://128ordle.com) - wordle scaled way too far, with persistence and social features
+- [128ordle](https://128ordle.com) - wordle scaled way too far, 860k+ letters typed, 172k+ guesses made, 140k+ boards solved
 - **soon to come** - uh soon when i get some good ideas i guess...
 
 **beta**
 
-- [Asteria](https://asteriamod.com) - mod for hypixel skyblock
+- [Asteria](https://asteriamod.com) - mod for hypixel skyblock (discontinued, not releasing)
 
 
 
