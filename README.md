@@ -22,8 +22,8 @@ basically all of the code is in private repos
 
 
 **discontinued**
-- [128ordle](https://128ordle.com/thanks)
-- [Asteria](https://asteriamod.com) - mod for hypixel skyblock (discontinued, not releasing)
+- [128ordle](https://128ordle.com/thanks) - as above
+- [Asteria](https://asteriamod.com) - mod for hypixel skyblock 
 
 
 
