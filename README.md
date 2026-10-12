@@ -15,7 +15,8 @@ basically all of the code is in private repos
 - [click here](https://luke.cymru) 
 
 **live**
--[wisp](https://bywisp.com) - just click.
+
+- [wisp](https://bywisp.com) - just click.
 - **soon to come** - uh soon when i get some good ideas i guess...
 
 - [128ordle](https://128ordle.com) - wordle scaled way too far with too many features, languages, versions and modes see - [changelogs](https://128ordle.com/changelogs)
