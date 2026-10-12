@@ -11,17 +11,16 @@ basically all of the code is in private repos
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-**my portfolio**
-- [click here](https://luke.cymru) 
+**myself**
+- [portfolio](https://luke.cymru) 
+
+- [studio](https://bywisp.com) 
 
 **live**
 
-- [wisp](https://bywisp.com) - just click.
-- **soon to come** - uh soon when i get some good ideas i guess...
-
 - [128ordle](https://128ordle.com) - wordle scaled way too far with too many features, languages, versions and modes see - [changelogs](https://128ordle.com/changelogs)
 
-
+- **soon to come** - uh soon when i get some good ideas i guess...
 
 **discontinued**
 - [128ordle](https://128ordle.com/thanks) - as above
