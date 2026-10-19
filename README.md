@@ -23,7 +23,7 @@ basically all of the code is in private repos
 - **soon to come** - uh soon when i get some good ideas i guess...
 
 **development**
-- [slipstream](https://www.slipstream.games) - pixel a top-down pixel f1 management game. 
+- [slipstream](https://slipstream.games) - pixel a top-down pixel f1 management game. 
 
 **discontinued**
 - [128ordle](https://128ordle.com/thanks) - as above
